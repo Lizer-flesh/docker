@@ -1,6 +1,6 @@
 # Docker and Docker-compose 🐳
 
-![image](https://user-images.githubusercontent.com/60391056/193568043-01954faa-c405-4720-a154-8482b1faa881.png)
+   ![image](https://user-images.githubusercontent.com/60391056/193568043-01954faa-c405-4720-a154-8482b1faa881.png)
 
 ## Docker
 
