@@ -233,6 +233,7 @@ Docker-compose - это средство для определения и зап
 
 ![image](https://user-images.githubusercontent.com/60391056/194255487-80c6859a-4151-414d-af2c-9728a8cd842f.png)
 
+
   
 ## :question: Как создать Docker-compose файл
 
@@ -259,7 +260,7 @@ Docker-compose - это средство для определения и зап
 
  ![image](https://user-images.githubusercontent.com/60391056/192754421-948f9c7e-684a-4737-ae9e-c061b7282504.png)
  
- 
+ Разберём как пример docker-compose файл:
  ## Что дальше?
  
  Далее вы можете использовать ваш docker-compose файл для того, чтобы развернуть ваш проект с использованием разных сервисов.
